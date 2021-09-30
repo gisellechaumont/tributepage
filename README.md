@@ -1,5 +1,5 @@
 ### TRIBUTE PAGE - ADA LOVELACE
-# One of the final proyects of course "Web Responsive Design" of FreeCodeCamp:
+# One of the final proyects of course " Responsive Web Design" of FreeCodeCamp:
 
 
 # Technologies
